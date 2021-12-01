@@ -4,7 +4,6 @@ Delani Studio Website
 This project is a web application for Delani Studio that showcases details about the services it offers, has details about the studio, a portfolio section and a contact section whereby users are able to reachout incase they are in need of any assistance.
 ## Author 
 [Fabian Matata](https://github.com/FabianMatata)
-second third four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen
 ## Screenshot
 ![](./delanii.png)
 ## Technology Used 
